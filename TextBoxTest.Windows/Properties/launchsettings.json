@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"TextBoxTest.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"TextBoxTest.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
